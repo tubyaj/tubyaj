@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 ![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tubyaj&theme=dark)
 
 
-## 🛡 Badges and Tools I Use
+## 🛡 Languages and Tools
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat-square&logo=.net&logoColor=white)
