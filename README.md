@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Lao</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tubyaj&label=Profile%20views&color=0e75b6&style=flat" alt="tubyaj" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tubyaj&show_icons=true&locale=en&layout=compact" alt="tubyaj" /></p>
+<p><img align="left" src="https://my-readme-stats-five.vercel.app/api/top-langs?username=tubyaj&show_icons=true&locale=en&layout=compact" alt="tubyaj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tubyaj&show_icons=true&locale=en" alt="tubyaj" /></p>
 
