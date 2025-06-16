@@ -2,16 +2,9 @@
 
 Welcome to my GitHub profile!  
 
-## 📈 My GitHub Stats
-
 [![Anurag's GitHub stats](https://my-readme-stats-five.vercel.app/api?username=tubyaj&show_icons=true&theme=dark)](https://github.com/tubyaj)
 
 [![Top Langs](https://my-readme-stats-five.vercel.app/api/top-langs/?username=tubyaj&layout=compact&theme=dark)](https://github.com/tubyaj)
-
-
-## 🔹 Summary Cards 🔹
-
-![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tubyaj&theme=dark)
 
 
 ## 🛡 Languages and Tools
