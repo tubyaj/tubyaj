@@ -18,6 +18,8 @@ Welcome to my GitHub profile!
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-NET%20Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-5C2D91?style=flat-square&logo=Blazor&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
@@ -31,6 +33,7 @@ Welcome to my GitHub profile!
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
 
 
 ---
